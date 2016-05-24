@@ -1,0 +1,28 @@
+name: esavvy.solutions
+favicon: null
+layout_spectrum: 0.898496723966673
+typography_spectrum: 0.9171157423406839
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8172487274277955
+  lightness: 0.18838028656318784
+  saturation: 0.5314597052056342
+  rhythmicContrast: 0.06583011196926236
+purpose: []
